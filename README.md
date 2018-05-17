@@ -1,0 +1,1 @@
+# react_app_rails_app_active_admin
